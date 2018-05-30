@@ -8,7 +8,7 @@
 <body>
 <P>  The time on the server is ${serverTime}. </P>
 <form action="">
-	<label>login</label>
+	<label for="login">login</label>
 	<input type="text">
 	<br>
 	<label>password</label>
